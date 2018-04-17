@@ -47,8 +47,10 @@ npm config set disturl https://npm.taobao.org/dist --global
 cd AwesomeProject
 react-native run-android
 ```
- ![https://ws1.sinaimg.cn/large/006tNc79ly1fqfg5chy3ij30f00qomyr.jpg](https://ws1.sinaimg.cn/large/006tNc79ly1fqfg5chy3ij30f00qomyr.jpg)
- What's the hell? (什么鬼？）你肯定会相当失望，怎么一跑起来就飘红，擦，怎么有一种程序直接崩溃的感觉。Relax，其实你并没有错，只是还没有连接上服务而已。
+
+ ![](https://ws1.sinaimg.cn/large/006tNc79ly1fqfg5chy3ij30f00qomyr.jpg)
+ 
+What's the hell? (什么鬼？）你肯定会相当失望，怎么一跑起来就飘红，擦，怎么有一种程序直接崩溃的感觉。Relax，其实你并没有错，只是还没有连接上服务而已。
 
 - #### 连接服务
  ##### 方式一
